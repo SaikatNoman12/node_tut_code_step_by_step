@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "this is my first api project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "nomaan",
+  "license": "ISC",
+  "dependencies": {
+    "colors-log": "^1.1.0"
+  }
+}

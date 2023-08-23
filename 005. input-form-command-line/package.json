@@ -1,0 +1,15 @@
+{
+  "name": "input-form-command-line",
+  "version": "1.0.0",
+  "description": "create and delete file use input command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "input",
+    "command"
+  ],
+  "author": "nomaan",
+  "license": "ISC"
+}
