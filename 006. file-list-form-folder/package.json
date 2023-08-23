@@ -1,0 +1,16 @@
+{
+  "name": "006.-file-list-form-folder",
+  "version": "1.0.0",
+  "description": "i create my file list use node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "create",
+    "multiple",
+    "file"
+  ],
+  "author": "nomaan",
+  "license": "ISC"
+}
