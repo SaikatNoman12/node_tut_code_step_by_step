@@ -17,6 +17,19 @@ app.get((''), (req, res) => {
     `);
 });
 
+app.get('/help', (req, res) => {
+    res.send([
+        {
+            name:'Abdullah Al Nomaan',
+            mail:'abc@gmail.com'
+        },
+        {
+            name:'Abu Hasnat',
+            mail:'hasnat@gmail.com'
+        },
+    ])
+}); 
+
 app.get('/about', (req, res) => {
 
     res.send(`
