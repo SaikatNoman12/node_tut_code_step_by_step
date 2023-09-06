@@ -1,0 +1,19 @@
+{
+  "name": "req-res",
+  "version": "1.0.0",
+  "description": "this is request and response session",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "req",
+    "and",
+    "res"
+  ],
+  "author": "nomaan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

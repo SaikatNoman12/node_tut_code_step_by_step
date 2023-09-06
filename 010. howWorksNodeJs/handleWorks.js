@@ -4,7 +4,6 @@
  * Node js API.
  * Call back queue.
 */
-
 console.log('Our process is start.');
 
 setTimeout(() => {
