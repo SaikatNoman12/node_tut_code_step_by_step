@@ -15,3 +15,4 @@
 - Node js Request & Response works.
 - How to render HTML and JSON.
 - Make HTML pages.
+- Remove extension form url. and show error page.
