@@ -13,4 +13,5 @@
 
 - What is node js.
 - Node js Request & Response works.
-- How to render HTML and JSON
+- How to render HTML and JSON.
+- Make HTML pages.

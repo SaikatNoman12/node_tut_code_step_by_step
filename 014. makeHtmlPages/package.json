@@ -1,0 +1,23 @@
+{
+  "name": "014.-makehtmlpages",
+  "version": "1.0.0",
+  "description": "this is static html pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "make",
+    "html",
+    "pages",
+    "and",
+    "render",
+    "node",
+    "js"
+  ],
+  "author": "nomaan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
