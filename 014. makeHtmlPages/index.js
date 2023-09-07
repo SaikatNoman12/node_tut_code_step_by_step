@@ -1,7 +1,8 @@
 /** 
  * MAKE HTML PAGES
- * Make html files
- * Load html files
+ * make folder for HTML file and access it.
+ * Make html files.
+ * Load html files.
 */
 
 const express = require('express');
