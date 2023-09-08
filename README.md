@@ -17,3 +17,5 @@
 - Make HTML pages.
 - Remove extension form url. and show error page.
 - How to make HTML dynamic page.
+- What is middleware? How it is use? 
+- Route level middleware.
