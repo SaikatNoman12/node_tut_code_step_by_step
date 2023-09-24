@@ -20,3 +20,13 @@
 - What is middleware? How it is use?
 - Route level middleware.
 - Connect node with mongoDB.
+- What is mongodb database.
+- Connect node with mongodb.
+- Read data form mongodb
+- Insert data form mongodb
+- Update data form mongodb
+- Delete data form mongodb
+- API
+  - Get data form mongodb.
+  - Post data in mongodb.
+  - Put data in mongodb.
