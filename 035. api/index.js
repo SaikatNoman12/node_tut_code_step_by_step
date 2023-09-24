@@ -21,12 +21,28 @@ app.post("/", async (req, res) => {
   res.send(push);
 });
 
-app.put("/:parmData", async (req, res) => {
-    let data = await getDb('abdullah');
-    let result = await data.updateOne({name:req.params.parmData}, {
-        $set:req.body
-    });
+// Put data at mongodb
+app.put("/", async (req, res) => {
+    let data = await getDb("abdullah");
+    let result = await data.updateOne(
+      { name: req.body.name },
+      {
+        $set: req.body
+      }
+    );
     res.send(result);
+});  
+
+// Use param and put (update) data at mongodb
+app.put("/:parmData", async (req, res) => {
+  let data = await getDb("abdullah");
+  let result = await data.updateOne(
+    { name: req.params.parmData },
+    {
+      $set: req.body
+    }
+  );
+  res.send(result);
 });
 
 app.listen(4300);
