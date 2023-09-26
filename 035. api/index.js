@@ -1,5 +1,6 @@
 const express = require("express");
 const getDb = require("./mongodb");
+const mongodb = require('mongodb'); // this is use for get Mongodb ObjectId;
 const app = express();
 
 // get postman data
@@ -42,6 +43,13 @@ app.put("/:parmData", async (req, res) => {
       $set: req.body
     }
   );
+  res.send(result);
+});
+
+// Use param and delete data at mongodb
+app.delete('/:id', async (req, res) => {
+  let db = await getDb("abdullah");
+  let result = await db.deleteOne({_id:new mongodb.ObjectId(req.params.id)});
   res.send(result);
 });
 

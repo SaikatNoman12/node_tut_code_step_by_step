@@ -30,3 +30,4 @@
   - Get data form mongodb.
   - Post data in mongodb.
   - Put data in mongodb.
+  - Delete data in mongodb.
