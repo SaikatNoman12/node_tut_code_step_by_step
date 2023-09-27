@@ -1,0 +1,19 @@
+{
+  "name": "036.-mongoos",
+  "version": "1.0.0",
+  "description": "mongoos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoos"
+  ],
+  "author": "nomaan",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.1.0",
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^7.5.3"
+  }
+}
