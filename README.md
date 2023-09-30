@@ -33,3 +33,4 @@
   - Delete data in mongodb.
 - How to use MONGOOSE.
 - Mongoose CRUD Operation.
+- Post API with mongoose.
