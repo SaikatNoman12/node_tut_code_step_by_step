@@ -34,3 +34,4 @@
 - How to use MONGOOSE.
 - Mongoose CRUD Operation.
 - Post API with mongoose.
+- Get, Update & Delete with mongoose.
