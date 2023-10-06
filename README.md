@@ -36,3 +36,4 @@
 - Post API with mongoose.
 - Get, Update & Delete with mongoose.
 - Multiple data search with API.
+- Upload file use node js.
