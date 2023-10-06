@@ -35,3 +35,4 @@
 - Mongoose CRUD Operation.
 - Post API with mongoose.
 - Get, Update & Delete with mongoose.
+- Multiple data search with API.
