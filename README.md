@@ -39,3 +39,9 @@
 - Upload file use node js.
 - What is OS module.
 - Node Js Event & Event Emitter.
+- Connect MySQL in node js. And how create table.
+- mySQL crud
+  - Get mySQL API data.
+  - Post data in mySQL API.
+  - Update data in mySQL API.
+  - Delete data in mySQL API.
