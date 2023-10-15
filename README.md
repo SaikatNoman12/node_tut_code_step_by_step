@@ -45,3 +45,4 @@
   - Post data in mySQL API.
   - Update data in mySQL API.
   - Delete data in mySQL API.
+- JWT token.
